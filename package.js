@@ -29,6 +29,6 @@ Package.onUse(function (api) {
         'tags-typeahead.css'
     ], 'client');
 
-    api.export(['TagsUtil', 'CloudspiderTags']);
+    api.export(['TagsUtil']);
 });
 
