@@ -1,5 +1,4 @@
 
-
 AutoForm.addInputType("tagsTypeahead", {
     template: "afTagsTypeahead",
     valueIn: function(value) {
